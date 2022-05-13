@@ -9,13 +9,13 @@ As the climate change affects our lives more and more, we have developed a porta
 
 ## Features
 
--latest news about climate change
--list of the best books regarding environment and climate change
--section about environmental influencer on social media
+- latest news about climate change
+- list of the best books regarding environment and climate change
+- section about environmental influencer on social media
 
 ## Demo
 
-Live demo on Netlify:
+Live demo on Netlify: https://ourplanetportal.netlify.app/
 
 <img src="./src/images/screenshot.png" width="600" height="400">
 

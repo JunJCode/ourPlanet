@@ -1,0 +1,25 @@
+.list-of-Articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 100%;
+}
+
+.btn-home {
+  background-color: #3f7856;
+  border: solid black 3px;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.btns-landing-page {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

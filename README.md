@@ -17,7 +17,7 @@ As the climate change affects our lives more and more, we have developed a porta
 
 Live demo on Netlify:
 
-<img src="./source/images/screenshot.png" width="600" height="400">
+<img src="./src/images/screenshot.png" width="600" height="400">
 
 ## Installation
 
